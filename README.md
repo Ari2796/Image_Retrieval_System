@@ -1,4 +1,4 @@
-# Jewellery Retrieval App
+# Image Retrieval App
 
 ## Project Structure
 - `backend/`: FastAPI backend for retrieval logic (Search, OCR, Sketch).
