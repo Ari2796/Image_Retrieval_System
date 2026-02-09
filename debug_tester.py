@@ -2,7 +2,7 @@ import requests
 import os
 
 ENDPOINT = "http://localhost:8000"
-TEST_IMG = "c:/Users/Arikrishnan/Documents/jewellery_retrieval_app_fe/data/images/ring/ring_001.jpg"
+TEST_IMG = "Your_test_image_path"
 
 def test_sketch():
     print(f"🎨 Testing Sketch Search with {TEST_IMG}...")
