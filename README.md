@@ -45,17 +45,17 @@ A sophisticated, AI-powered jewellery search engine that allows users to find th
 ### 2. Backend Setup
 bash
 # Navigate to root
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # Start the server
-python backend/main.py
+- python backend/main.py
 
 
 ### 3. Frontend Setup
-bash
-cd frontend
-npm install
-npm run dev
+- bash
+- cd frontend
+- npm install
+- npm run dev
 
 
 ---
