@@ -35,27 +35,6 @@ A sophisticated, AI-powered jewellery search engine that allows users to find th
 
 ---
 
-## 📁 Project Structure
-
-text
-jewellery_search/
-├── backend/            # FastAPI Backend
-│   ├── models/         # AI Model loading (CLIP, etc)
-│   ├── ocr/            # OCR Pipeline
-│   ├── search/         # Search logic (Image, Sketch, Text)
-│   ├── utils/          # Image and captioning utilities
-│   └── voice/          # Voice transcription
-├── frontend/           # React + Vite Frontend
-│   ├── src/
-│   │   ├── components/ # UI Components (SketchPad, VoiceModal)
-│   │   └── App.jsx     # Main Application logic
-├── data/               # Product Images (excluded from git)
-├── indexes/            # FAISS indices (excluded from git)
-└── requirements.txt    # Python dependencies
-
-
----
-
 ## 📦 Getting Started
 
 ### 1. Prerequisites
